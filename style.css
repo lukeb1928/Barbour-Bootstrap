@@ -1,16 +1,68 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE */
 /* 
 Colors:
-	#8ecae6 Sky Blue
-	#219ebc Light Blue
-	#023047 Dark Blue
-	#ffb703 Yellow
-	#fb8500 Orange
+	#84BCDA Dark Sky Blue
+	#FB5607 Orange Pantone
+	#023047 Prussian Blue
+	#F2E3BC Dutch White
+	#FB8500 Tangerine
 */
 h1{
-	color: ;
+	text-align: center;
+	font-size: 50px;
+	color: #FB5607;
 }
 
-.btn-group{
-	
+h2{
+	color: #FB5607;
 }
+
+body{
+	background-color: #F2E3BC;
+}
+
+.header{
+	background-color: #023047;
+}
+
+.nav-link{
+	color: #fb8500;
+}
+
+.btn{
+	color: #fb8500;
+}
+
+.dropdown-item{
+	color: #fb8500;
+}
+
+.who-are-we{
+	border-radius: 20px;
+
+	background-color: #023047;
+	color: #84bcda;
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.how-to-help{
+	border-radius: 20px;
+
+	background-color: #023047;
+	color: #84bcda;
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.carousel-item{
+	max-height: 1000px;
+}
+
+
