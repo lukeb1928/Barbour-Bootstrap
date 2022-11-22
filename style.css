@@ -27,10 +27,16 @@ body{
 
 .nav-link{
 	color: #fb8500;
+
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 .btn{
 	color: #fb8500;
+	
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 .dropdown-item{
