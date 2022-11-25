@@ -21,6 +21,10 @@ body{
 	background-color: #F2E3BC;
 }
 
+p{
+	color: #84bcda;
+}
+
 .header{
 	background-color: #023047;
 }
@@ -71,4 +75,22 @@ body{
 	max-height: 1000px;
 }
 
+/*About Us Styles*/
+.headshot{
+	border-radius: 20px;
 
+	margin-top: 20px;
+}
+
+.origins{
+	border-radius: 20px;
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	background-color: #023047;
+}
