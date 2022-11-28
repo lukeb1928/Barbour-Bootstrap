@@ -23,6 +23,7 @@ body{
 
 p{
 	color: #84bcda;
+	font-size: 20px;
 }
 
 .header{
@@ -82,15 +83,28 @@ p{
 	margin-top: 20px;
 }
 
-.origins{
+.txt-box{
 	border-radius: 20px;
 
 	margin-top: 20px;
 	margin-bottom: 20px;
-	margin-right: 20px;
 
 	padding-top: 10px;
 	padding-bottom: 10px;
 
 	background-color: #023047;
+}
+
+.card-group{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.card{
+	background-color: #023047;
+}
+
+.card-img-top{
+	border-radius: 10px;
+	padding-top: 1px;
 }
